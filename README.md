@@ -1,0 +1,1 @@
+Creating a clone of the Google homepage to demonstrate CSS and HTML understanding. 
